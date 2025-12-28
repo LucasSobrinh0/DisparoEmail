@@ -57,6 +57,7 @@ Após preencher todos os campos e selecionar o arquivo correto, clique em Enviar
 O sistema realizará o disparo automático dos e mails.
 
 ## Downloads
-Baixar o template Excel  
-Baixar o programa
+Baixar o programa: [DisparadorUOL.rar](files/DisparadorUOL.rar)  
+Baixar o template Excel: [template.xlsx](files/template.xlsx)
+
 
