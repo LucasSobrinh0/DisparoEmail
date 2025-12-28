@@ -26,8 +26,8 @@ Exemplo de preenchimento:
 
 | E MAILS           | ID ou MOV        | N° PROCESSO     |
 |-------------------|------------------|-----------------|
-| email1@uol.com.br | Juntada Petição  | 0001234562024   |
-| email2@uol.com.br | Despacho Juízo   | 0009876542024   |
+| email1@uol.com.br | 66               | 0001234562024   |
+| email2@uol.com.br | 105              | 0009876542024   |
 
 O template oficial será disponibilizado para download.
 
@@ -59,3 +59,4 @@ O sistema realizará o disparo automático dos e mails.
 ## Downloads
 Baixar o template Excel  
 Baixar o programa
+
