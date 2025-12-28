@@ -24,27 +24,38 @@ Os dados começam a partir da linha 2
 
 Exemplo de preenchimento:
 
-| E MAILS               | ID ou MOV        | N° PROCESSO        |
-|-----------------------|------------------|--------------------|
-| email1@uol.com.br     | Movimentação 01  | 0001234562024      |
-| email2@uol.com.br     | Movimentação 02  | 0009876542024      |
+| E MAILS           | ID ou MOV        | N° PROCESSO     |
+|-------------------|------------------|-----------------|
+| email1@uol.com.br | Juntada Petição  | 0001234562024   |
+| email2@uol.com.br | Despacho Juízo   | 0009876542024   |
 
 O template oficial será disponibilizado para download.
 
 ## Variáveis disponíveis na mensagem
 Para inserir dados do Excel no corpo do e mail, utilize:
 
-Para id ou movimentação  
+Id ou movimentação do processo  
 {{ movimento }}
 
-Para número do processo  
+Número do processo  
 {{ numero_processo }}
+
+## Exemplo de mensagem para despacho jurídico
+Sugestão de texto objetivo e profissional para uso jurídico:
+
+Prezados,
+
+Informamos que houve a seguinte movimentação processual: {{ movimento }}.  
+Processo de número {{ numero_processo }}.
+
+Permanecemos à disposição para eventuais esclarecimentos.
+
+Atenciosamente.
 
 ## Envio
 Após preencher todos os campos e selecionar o arquivo correto, clique em Enviar.  
-O sistema fará o disparo automático dos e mails.
+O sistema realizará o disparo automático dos e mails.
 
 ## Downloads
 Baixar o template Excel  
 Baixar o programa
-
