@@ -57,8 +57,12 @@ Após preencher todos os campos e selecionar o arquivo correto, clique em Enviar
 O sistema realizará o disparo automático dos e mails.
 
 ## Downloads
+
+É recomendado deixar em uma pasta o arquivo DisparadorDeEmail.exe, pois ele cria um arquivo chamado config.json. Esse arquivo salva as informações de e-mail e mensagem para não repetir toda vez que abrir o app.
+
 Baixar o programa: [DisparadorDeEmail.exe](https://raw.githubusercontent.com/LucasSobrinh0/DisparoEmail/main/files/DisparadorDeEmail.exe)  
 Baixar o template Excel: [TEMPLATE.xlsx](https://raw.githubusercontent.com/LucasSobrinh0/DisparoEmail/main/files/TEMPLATE.xlsx)
+
 
 
 
