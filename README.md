@@ -57,8 +57,10 @@ Após preencher todos os campos e selecionar o arquivo correto, clique em Enviar
 O sistema realizará o disparo automático dos e mails.
 
 ## Downloads
-Baixar o programa: [Disparador.rar](files/Disparador.rar)  
-Baixar o template Excel: [template.xlsx](files/TEMPLATE.xlsx)
+Baixar o programa: [Disparador.rar](https://raw.githubusercontent.com/LucasSobrinh0/DisparoEmail/main/files/Disparador.rar)  
+Baixar o template Excel: [TEMPLATE.xlsx](https://raw.githubusercontent.com/LucasSobrinh0/DisparoEmail/main/files/TEMPLATE.xlsx)
+
+
 
 
 
